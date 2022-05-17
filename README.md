@@ -1,4 +1,4 @@
-# weatheree- Flutter Web App
+# weatheree- Flutter Weather App
 
 This is a weather app that shows you:
 - the temperature in your current location
